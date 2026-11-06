@@ -1,0 +1,4 @@
+numpy
+pymavlink
+opencv-contrib-python==4.10.0.84
+# picamera2 is installed with apt on Raspberry Pi OS:  sudo apt install -y python3-picamera2

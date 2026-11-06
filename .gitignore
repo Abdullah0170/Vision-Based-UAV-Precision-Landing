@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+# flight data and media
+logs/
+*.csv
+*.mp4
+*.jpg
+# local camera calibration / orientation files
+*.npz
+directions.json
+cam_yaw.txt
